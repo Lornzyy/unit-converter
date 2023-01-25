@@ -9,9 +9,10 @@ It generates all the conversions when the user clcks the convert button and it c
 
 ## LEARN MORE
 Head over to (https://scrimba.com/allcourses) to see such courses and try other challenges
+Look at the figma design (https://www.figma.com/file/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0%3A13&t=9PokKr3bNvfFYtO0-0) and try to recreate it
 
 
-## TRY IT OUT!
+#### TRY IT OUT!
 
 ## Author
 - Github - [@Lornzyy](https://github.com/Lornzyy/)
