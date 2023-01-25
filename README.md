@@ -1,20 +1,21 @@
 # UNIT CONVERTER
+It generates all the conversions when the user clcks the convert button and it converts both metric and imperical values such as:
+### 
+Length
+### 
+Volume
+### 
+Mass
 
-It converts both metric and imperical values such as
-- [Length]
-- [Volume]
-- [Mass]
-
-### Screenshot of the random password generator I was able to come up with
+##
+Screenshot of the unit convertor I was able to come up with
 ![screenshot of the unit converter](./images/unit-converter.png)
 
-##
-- [Scrimba] Head over to (https://scrimba.com/allcourses) to see such courses and try other challenges
+## LEARN MORE
+- ![Scrimba] Head over to (https://scrimba.com/allcourses) to see such courses and try other challenges
 
-Try it Out!
+TRY IT OUT!
 
-
-##
-Author
-- [Github] (https://github.com/Lornzyy/)
-- Twitter - (https://www.twitter.com/Lornzyy)
+## Author
+- Github - [@Lornzyy](https://github.com/Lornzyy/)
+- Twitter - [@Lornzyy](https://www.twitter.com/Lornzyy)
